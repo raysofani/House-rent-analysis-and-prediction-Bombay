@@ -27,8 +27,9 @@ https://www.kaggle.com/datasets/lokeshgupta2020/house-rent-in-mumbai
 * SVM has a accuracy of -0.94%
 * Random Forest Regressor has a accuracy of 76.06%
 * XGBoost Has a accuracy of 70.76%.
-  So for our model Random Forest Regressor is the best for our model as it is having the highest accuracy among other Models we have made.
+* So for our model Random Forest Regressor is the best for our model as it is having the highest accuracy among other Models we have made.
 ## **Model Visualization:** ##
-![Score Representation](<Screenshot 2024-01-14 203348.png>)
+![Screenshot 2024-01-14 203348](https://github.com/raysofani/House-rent-analysis-and-prediction-Bombay/assets/129651614/1d76e829-ce82-47d2-a09e-58476702b45a)
+
 ## **Contributed By:** ##
 Aniket Ray
