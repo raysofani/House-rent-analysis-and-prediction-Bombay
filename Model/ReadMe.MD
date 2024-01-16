@@ -16,27 +16,25 @@ https://www.kaggle.com/datasets/lokeshgupta2020/house-rent-in-mumbai
 * Visual Data exploration
 * Made Different ML Models
 
-## **Analysis of Data Visulization:** ##
-* Pairplot of numerical values
-![Screenshot 2024-01-15 154053](https://github.com/raysofani/House-rent-analysis-and-prediction-Bombay/assets/129651614/e13b7734-6251-436d-9a4d-c4077564019b)
+## Analysis of Data Visualization:
 
-* Heatmap 
-![Screenshot 2024-01-14 203212](https://github.com/raysofani/House-rent-analysis-and-prediction-Bombay/assets/129651614/6b063d9e-81ad-49ce-8447-8bd889812cf8)
+### Pairplot of numerical values
+![Pairplot](https://github.com/raysofani/House-rent-analysis-and-prediction-Bombay/assets/129651614/4902a45c-8124-454d-b79b-b493a5755446)
 
-* Boxplot for size
-![boxplot for size](https://github.com/raysofani/House-rent-analysis-and-prediction-Bombay/assets/129651614/9bf4511b-15c5-42d8-9d69-0fe2fb85cc35)
+### Heatmap
+![Heatmap](https://github.com/raysofani/House-rent-analysis-and-prediction-Bombay/assets/129651614/a4111dca-d07e-47f1-b707-81c171b9d021)
 
-* Boxplot for area
-![boxplot for area](https://github.com/raysofani/House-rent-analysis-and-prediction-Bombay/assets/129651614/1bc6b665-911e-4a6a-9495-eb0cb48a1718)
+### Boxplot for size
+![Boxplot for size](https://github.com/raysofani/House-rent-analysis-and-prediction-Bombay/assets/129651614/2e1796ca-5876-4aab-80eb-8c6c0a0e91f5)
 
-- Boxplot for price
-![boxplot for price](https://github.com/raysofani/House-rent-analysis-and-prediction-Bombay/assets/129651614/1d81dbbe-f70e-431d-98ab-5a46155e7df5)
+### Boxplot for area
+![Boxplot for area](https://github.com/raysofani/House-rent-analysis-and-prediction-Bombay/assets/129651614/dd95831a-7e80-44c8-83be-0d35c33b78b1)
 
-* Boxplot after removing the outliers
-![image](https://github.com/raysofani/House-rent-analysis-and-prediction-Bombay/assets/129651614/e6742f02-2f14-40cd-abfe-bccec4a62cd3)
+### Boxplot for price
+![Boxplot for price](https://github.com/raysofani/House-rent-analysis-and-prediction-Bombay/assets/129651614/c15cd273-5609-40f0-9080-dc778ed7652f)
 
-
-
+### Boxplot after removing the outliers
+![Boxplot without outliers](https://github.com/raysofani/House-rent-analysis-and-prediction-Bombay/assets/129651614/f8410994-4ff7-4745-bc56-f460ae8afb74)
 
 ## **Libraries Needed:** ##
 * pandas - To manipulate dataframes
