@@ -29,7 +29,7 @@ https://www.kaggle.com/datasets/lokeshgupta2020/house-rent-in-mumbai
 * Boxplot for area
 ![boxplot for area](https://github.com/raysofani/House-rent-analysis-and-prediction-Bombay/assets/129651614/1bc6b665-911e-4a6a-9495-eb0cb48a1718)
 
-* Boxplot for price
+- Boxplot for price
 ![boxplot for price](https://github.com/raysofani/House-rent-analysis-and-prediction-Bombay/assets/129651614/1d81dbbe-f70e-431d-98ab-5a46155e7df5)
 
 * Boxplot after removing the outliers
