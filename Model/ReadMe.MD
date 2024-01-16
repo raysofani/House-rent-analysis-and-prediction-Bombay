@@ -47,7 +47,7 @@ https://www.kaggle.com/datasets/lokeshgupta2020/house-rent-in-mumbai
 
 * So for our model Random Forest Regressor is the best for our model as it is having the highest accuracy among other Models we have made.
 
-## Model Visualization:
+## Model's Score Visualization:
 <img src="https://github.com/raysofani/House-rent-analysis-and-prediction-Bombay/assets/129651614/1d76e829-ce82-47d2-a09e-58476702b45a" width="600">
 
 ## Contributed By:
